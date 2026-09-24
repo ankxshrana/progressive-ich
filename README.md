@@ -22,7 +22,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-The app opens at **[LINK](https://progressive-ich.streamlit.app/)1**
+The app opens at **[LINK](https://progressive-ich.streamlit.app/)**
 
 ---
 
